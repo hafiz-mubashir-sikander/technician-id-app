@@ -1,0 +1,23 @@
+# Keep confidential material and production code out of this showcase.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+*.mobileprovision
+*.cer
+google-services.json
+GoogleService-Info.plist
+.DS_Store
+Thumbs.db
+.dart_tool/
+build/
+lib/
+android/
+ios/
+web/
+macos/
+windows/
+linux/
